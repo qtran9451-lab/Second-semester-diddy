@@ -1,0 +1,39 @@
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: azure;
+
+
+}
+
+p {
+    color: rgb(71, 127, 127);
+    
+}
+
+h1 {
+color: rgb(115, 204, 204);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border-color: antiquewhite;
+border-style: dashed;
+margin: 0px;
+text-align: center;
+}
+
+.nt{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+}
+
+body{ 
+    background: linear-gradient(rgb(91, 104, 117), rgb(74, 70, 98) );
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 40px;
+    border-style:double;
+    border-color: azure;
+}
